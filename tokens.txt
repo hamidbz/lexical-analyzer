@@ -1,0 +1,8 @@
+
+('ID', 'A')
+('OP', ' =')
+('INT', ' 12')
+('SEMICOLON', ';')
+('ID', ' b')
+('OP', ' =')
+Error: Invalid Input!
